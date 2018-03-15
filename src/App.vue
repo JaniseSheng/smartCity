@@ -49,6 +49,9 @@
     </div>
   </div>
   <router-view></router-view>
+  <div style="padding: 24px; color:#2d8cf0; text-align: center">
+    中国电信公司政企知识库
+  </div>
 </div>
 </template>
 
